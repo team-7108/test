@@ -1,1 +1,1 @@
-This is a conflict branch
+a = 5
