@@ -11,4 +11,6 @@ void draw()
 {
 //deniyoruz birseyler reiss
 	//Vatan succesfully saved by Vatan
+
+	void conf_func()
 }
