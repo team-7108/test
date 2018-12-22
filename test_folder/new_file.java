@@ -2,8 +2,8 @@ import aaa;
 import bbb;
 import ccc;
 
-int a = 8;
 int c = 9;
+int x = 8;
 int b = 7;
 
 void setup()
