@@ -2,6 +2,8 @@ import aaa;
 import bbb;
 import ccc;
 
+int a = 5;
+
 void setup()
 {
 
