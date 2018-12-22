@@ -2,6 +2,7 @@ import aaa;
 import bbb;
 import ccc;
 
+int c = 9;
 int a = 5;
 
 void setup()
