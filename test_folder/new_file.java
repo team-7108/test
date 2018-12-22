@@ -3,6 +3,7 @@ import bbb;
 import ccc;
 
 int a = 5;
+int b = 7;
 
 void setup()
 {
