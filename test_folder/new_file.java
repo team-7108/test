@@ -4,6 +4,7 @@ import ccc;
 
 int c = 9;
 int a = 5;
+int b = 7;
 
 void setup()
 {
